@@ -1,7 +1,7 @@
 # Object Finder Demo Script
 **Duration: 2 minutes + Q&A**
 
-## Opening Hook (15 seconds) time
+## Opening Hook (15 seconds)
 "Good morning! Quick question - who here has spent more than 5 minutes looking for their keys this week?"
 *[Wait for audience response]*
 
