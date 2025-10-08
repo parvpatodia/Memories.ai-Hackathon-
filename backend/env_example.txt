@@ -1,0 +1,10 @@
+# Supabase Configuration
+SUPABASE_URL=https://ypcixaxoslrsyyddxerp.supabase.co
+SUPABASE_KEY=your_eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlwY2l4YXhvc2xyc3l5ZGR4ZXJwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTk4NzQ2NDcsImV4cCI6MjA3NTQ1MDY0N30.NQ6TTa7S2O7C_k3Kp0vp1MT1R_Chukp8shyK7bzi9r4
+
+# Memories.ai Configuration
+MEMORIES_AI_API_KEY=sk-09cb6a157f600f78ffadf9c87b1f7925
+
+# Application Configuration
+DEBUG=True
+PORT=8000
