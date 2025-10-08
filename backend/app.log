@@ -292,3 +292,5 @@
 2025-10-07 22:38:21,340 - httpx - INFO - HTTP Request: GET https://ypcixaxoslrsyyddxerp.supabase.co/rest/v1/tracked_objects?select=%2A&order=created_at.desc "HTTP/2 200 OK"
 2025-10-07 22:39:21,260 - httpx - INFO - HTTP Request: GET https://ypcixaxoslrsyyddxerp.supabase.co/rest/v1/tracked_objects?select=%2A&order=created_at.desc "HTTP/2 200 OK"
 2025-10-07 22:40:21,286 - httpx - INFO - HTTP Request: GET https://ypcixaxoslrsyyddxerp.supabase.co/rest/v1/tracked_objects?select=%2A&order=created_at.desc "HTTP/2 200 OK"
+2025-10-07 22:41:21,265 - httpx - INFO - HTTP Request: GET https://ypcixaxoslrsyyddxerp.supabase.co/rest/v1/tracked_objects?select=%2A&order=created_at.desc "HTTP/2 200 OK"
+2025-10-07 22:42:21,241 - httpx - INFO - HTTP Request: GET https://ypcixaxoslrsyyddxerp.supabase.co/rest/v1/tracked_objects?select=%2A&order=created_at.desc "HTTP/2 200 OK"
